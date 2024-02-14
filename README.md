@@ -1,2 +1,1 @@
-# hello-world-
-This repository is for practicing Github basics
+I'm Ndamulelo Mulaudzi. Im from Atteridgeville Pretoria. I have being on a journey of a self taught software developer/ web developer.  The one thing that excites me the most is technology as a whole. I'm passionate about technology. Especially software development. I Love creating things from scratch, i enjoy solving problems especially complex one. The one thing you may not expect from me is that i love to sing with my terrible voice but it's one of the things i enjoy. In my free time I play rugby, I write code, I learn new programming language and aslo improve on those i already know. I try to upskill myself as much as i can.
